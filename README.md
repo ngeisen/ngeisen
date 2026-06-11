@@ -1,7 +1,7 @@
 ## Hi there, from sunny Colorado! 👋
-🔭 I’m currently working on writing an **Interactive Statistics** textbook.
+🔭 I’m currently working on an **Interactive Statistics** textbook.
 
-👯 I’m teaching at the _Univeristy of Northern Colorado_.
+👯 I teach at the _Univeristy of Northern Colorado_, primarily with future elementary teachers and some introductory statistics.
 
 <!--
 **ngeisen/ngeisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
