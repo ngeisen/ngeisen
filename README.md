@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, from sunny Colorado! 👋
 🔭 I’m currently working on writing an **Interactive Statistics** textbook.
 
 👯 I’m teaching at the _Univeristy of Northern Colorado_.
